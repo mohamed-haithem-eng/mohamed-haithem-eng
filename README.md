@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohamed
+# Mohamed Haithem
 
 ### Python for medical data · Health-tech student
 
